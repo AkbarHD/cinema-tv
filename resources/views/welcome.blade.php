@@ -828,10 +828,10 @@
 </head>
 
 <body class="antialiased">
-    <h1 class="text-5xl font-bold underline text-indigo-800">
+    <h1 class="text-5xl font-bold underline text-indigo-800 font-quicksand">
         Hello world!
     </h1>
-    <p class="text-7xl bg-amber-900 font-bold text-yellow-200">Hallo world</p>
+    <p class="text-7xl bg-amber-900 font-bold text-develobe font-inter">Hallo world</p>
     <div
         class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
         @if (Route::has('login'))
